@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Club Deportivo América de Quito",
+    "city": "Quito",
+    "keywords": []
+  },
+  {
+    "id": 2,
+    "name": "Sociedad Deportiva Aucas",
+    "city": "Quito",
+    "keywords": []
+  },
+  {
+    "id": 3,
+    "name": "Barcelona Sporting Club",
+    "city": "Guayaquil",
+    "keywords": []
+  },
+  {
+    "id": 4,
+    "name": "Delfín Sporting Club",
+    "city": "Manta",
+    "keywords": []
+  },
+  {
+    "id": 5,
+    "name": "Club Deportivo Cuenca",
+    "city": "Cuenca",
+    "keywords": []
+  },
+  {
+    "id": 6,
+    "name": "Club Deportivo El Nacional",
+    "city": "Quito",
+    "keywords": []
+  },
+  {
+    "id": 7,
+    "name": "Club Sport Emelec",
+    "city": "Guayaquil",
+    "keywords": []
+  },
+  {
+    "id": 8,
+    "name": "Fuerza Amarilla Sporting Club",
+    "city": "Machala",
+    "keywords": []
+  },
+  {
+    "id": 9,
+    "name": "Guayaquil City Fútbol Club",
+    "city": "Guayaquil",
+    "keywords": []
+  },
+  {
+    "id": 10,
+    "name": "Club Independiente del Valle",
+    "city": "Sangolquí",
+    "keywords": []
+  },
+  {
+    "id": 11,
+    "name": "Liga Deportiva Universitaria de Quito",
+    "city": "Quito",
+    "keywords": []
+  },
+  {
+    "id": 12,
+    "name": "Club Deportivo Macará",
+    "city": "Ambato",
+    "keywords": []
+  },
+  {
+    "id": 13,
+    "name": "Mushuc Runa Sporting Club",
+    "city": "Ambato",
+    "keywords": []
+  },
+  {
+    "id": 14,
+    "name": "Centro Deportivo Olmedo",
+    "city": "Riobamba",
+    "keywords": []
+  },
+  {
+    "id": 15,
+    "name": "Club Técnico Universitario",
+    "city": "Ambato",
+    "keywords": []
+  },
+  {
+    "id": 16,
+    "name": "Club Deportivo Universidad Católica",
+    "city": "Quito",
+    "keywords": []
+  }
+]

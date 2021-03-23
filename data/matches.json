@@ -1,0 +1,66 @@
+[
+  {
+    "localTeam": 9,
+    "visitorTeam": 12,
+    "localScore": 1,
+    "visitorScore": 1,
+    "date": "2019-02-09T01:00:00.000Z",
+    "tournamentDate": 1
+  },
+  {
+    "localTeam": 8,
+    "visitorTeam": 4,
+    "localScore": 0,
+    "visitorScore": 2,
+    "date": "2019-02-09T20:00:00.000Z",
+    "tournamentDate": 1
+  },
+  {
+    "localTeam": 11,
+    "visitorTeam": 14,
+    "localScore": 3,
+    "visitorScore": 2,
+    "date": "2019-02-09T22:15:00.000Z",
+    "tournamentDate": 1
+  },
+  {
+    "localTeam": 3,
+    "visitorTeam": 6,
+    "localScore": 5,
+    "visitorScore": 2,
+    "date": "2019-02-10T00:30:00.000Z",
+    "tournamentDate": 1
+  },
+  {
+    "localTeam": 5,
+    "visitorTeam": 10,
+    "localScore": 3,
+    "visitorScore": 2,
+    "date": "2019-02-10T19:00:00.000Z",
+    "tournamentDate": 1
+  },
+  {
+    "localTeam": 2,
+    "visitorTeam": 7,
+    "localScore": 0,
+    "visitorScore": 2,
+    "date": "2019-02-10T21:05:00.000Z",
+    "tournamentDate": 1
+  },
+  {
+    "localTeam": 15,
+    "visitorTeam": 16,
+    "localScore": 1,
+    "visitorScore": 2,
+    "date": "2019-02-10T23:00:00.000Z",
+    "tournamentDate": 1
+  },
+  {
+    "localTeam": 1,
+    "visitorTeam": 13,
+    "localScore": 0,
+    "visitorScore": 1,
+    "date": "2019-02-12T00:15:00.000Z",
+    "tournamentDate": 1
+  }
+]
