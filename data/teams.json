@@ -1,8 +1,8 @@
 [
   {
     "id": 1,
-    "name": "Club Deportivo América de Quito",
-    "city": "Quito",
+    "name": "9 de Octubre Fútbol Club",
+    "city": "Guayaquil",
     "keywords": []
   },
   {
@@ -31,56 +31,56 @@
   },
   {
     "id": 6,
-    "name": "Club Deportivo El Nacional",
-    "city": "Quito",
-    "keywords": []
-  },
-  {
-    "id": 7,
     "name": "Club Sport Emelec",
     "city": "Guayaquil",
     "keywords": []
   },
   {
-    "id": 8,
-    "name": "Fuerza Amarilla Sporting Club",
-    "city": "Machala",
-    "keywords": []
-  },
-  {
-    "id": 9,
+    "id": 7,
     "name": "Guayaquil City Fútbol Club",
     "city": "Guayaquil",
     "keywords": []
   },
   {
-    "id": 10,
+    "id": 8,
     "name": "Club Independiente del Valle",
     "city": "Sangolquí",
     "keywords": []
   },
   {
-    "id": 11,
+    "id": 9,
     "name": "Liga Deportiva Universitaria de Quito",
     "city": "Quito",
     "keywords": []
   },
   {
-    "id": 12,
+    "id": 10,
     "name": "Club Deportivo Macará",
     "city": "Ambato",
     "keywords": []
   },
   {
-    "id": 13,
+    "id": 11,
+    "name": "Manta Fútbol Club",
+    "city": "Manta",
+    "keywords": []
+  },
+  {
+    "id": 12,
     "name": "Mushuc Runa Sporting Club",
     "city": "Ambato",
     "keywords": []
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Centro Deportivo Olmedo",
     "city": "Riobamba",
+    "keywords": []
+  },
+  {
+    "id": 14,
+    "name": "Orense Sporting Club",
+    "city": "Machala",
     "keywords": []
   },
   {
