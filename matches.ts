@@ -1,9 +1,9 @@
 interface Match {
   localTeam: number;
-  visitorTeam: number;  
+  visitorTeam: number;
   localScore: number;
   visitorScore: number;
-  date: Date,
+  date: Date;
   tournamentDate: number;
 }
 
