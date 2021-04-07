@@ -9,7 +9,7 @@ import pandas as pd
 
 def download_tweets(query, until):
   tweets = {}
-  for tweet in tweepy.Cursor(api.search, q=query, until=until, lang="es", count=100).items(2000):
+  for tweet in tweepy.Cursor(api.search, q=query, until=until, lang="es", count=100).items(4000):
     tweets[tweet.id_str] = tweet
   return tweets
 

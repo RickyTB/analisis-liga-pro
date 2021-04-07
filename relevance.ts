@@ -2,7 +2,7 @@ import * as Papa from "papaparse";
 import * as fs from "fs/promises";
 import { Parser } from "json2csv";
 
-const FECHA = 5;
+const FECHA = 6;
 
 type Tweet = {
   id: string;
@@ -30,7 +30,7 @@ function calcRelevance(
 }
 
 async function main(fileName) {
-  const str = await fs.readFile(`tweets_2/${fileName}.csv`, {
+  const str = await fs.readFile(`tweets_4/${fileName}.csv`, {
     encoding: "utf-8",
   });
   const { data } = Papa.parse<Tweet>(str, { delimiter: ",", header: true });
@@ -72,7 +72,7 @@ async function main(fileName) {
     ],
   });
   const csv = parser.parse(tweets);
-  await fs.writeFile(`tweets_3/${fileName}.csv`, csv, "utf-8");
+  await fs.writeFile(`tweets_5/${fileName}.csv`, csv, "utf-8");
   console.log(`${fileName} saved`);
 }
 
